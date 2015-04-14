@@ -1,0 +1,1 @@
+["vectorborne","zoonosis", "bloodborne", "airborne", "fecal-oral","unidentifiable"]
